@@ -1,12 +1,7 @@
 # Notes
 
-## Overview
+Last updated: 2026-08-26T13:00:01.499Z
 
-Work in progress.
+## Progress
 
-## TODO
-
-- [ ] Define requirements
-- [ ] Implement core functionality
-- [ ] Add tests
-- [ ] Write documentation
+- add gitignore and project config files
