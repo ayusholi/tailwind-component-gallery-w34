@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve memory leak in event listener
-- Updated: 2026-08-26T13:00:01.499Z
+- add integration tests for API endpoints
+- Build: 2026-08-26T13:00:01.499Z
