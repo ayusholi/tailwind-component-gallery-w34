@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Build: 2026-08-26T13:00:01.499Z
+- correct off-by-one error in loop
+- Updated: 2026-09-22T11:03:52.593Z
