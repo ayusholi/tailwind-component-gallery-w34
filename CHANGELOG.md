@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- mock external dependencies in tests
-- Build: 2026-09-22T11:03:52.593Z
+- add utility functions for data processing
+- Updated: 2026-10-08T08:20:57.238Z
