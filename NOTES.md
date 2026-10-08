@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-10-08T08:20:57.238Z
+Session: 2026-10-08T08:20:57.238Z
 
-## Progress
+## Summary
 
-- add unit tests for core functions
+- correct off-by-one error in loop
