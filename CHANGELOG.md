@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add gitignore and project config files
-- Build: 2026-10-08T08:20:57.238Z
+- add integration tests for API endpoints
+- Updated: 2026-10-09T13:00:00.941Z
