@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Updated: 2026-10-09T13:00:00.941Z
+- handle empty response gracefully
+- Updated: 2026-10-10T13:00:00.800Z
