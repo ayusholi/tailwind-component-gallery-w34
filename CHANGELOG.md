@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update README with usage examples
-- Updated: 2026-10-11T13:00:00.827Z
+- implement pagination for list endpoints
+- Updated: 2026-10-18T13:00:00.872Z
